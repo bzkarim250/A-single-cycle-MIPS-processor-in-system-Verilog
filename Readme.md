@@ -11,9 +11,9 @@ In this project, the components of a single-cycle MIPS processor are simulated i
 ## How to run
 
 - clone the repository
-- open the folder to the respective environment and run 
+- open the folder to the respective environment and run each respective module testbench from compiling ,then simmulation
 
 ### Team Members
- - BAZAMBANZA Abdoulkalim
+ - BAZAMBANZA Abdoulkalim 
  - NGARUKIYIMANA Sostene
  - ISHIMWE Belyse
