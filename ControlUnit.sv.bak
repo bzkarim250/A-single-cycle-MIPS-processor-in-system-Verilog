@@ -1,0 +1,28 @@
+// ControlUnit.sv
+
+module ControlUnit #(
+    parameter OPCODE_WIDTH = 6
+)(
+    input logic [OPCODE_WIDTH-1:0] opcode,
+    output logic reg [2:0] aluOp,
+    output logic reg [2:0] funct
+);
+
+    always_comb begin
+        // Set default values
+        aluOp = 3'b000;
+        funct = 3'b000;
+
+        // Set control signals based on opcode
+        case (opcode)
+            6'b000000: aluOp = 3'b000; // R-type instruction
+            6'b001000: aluOp = 3'b010; // I-type instruction (addi)
+            // Add more cases for other instructions as needed
+            default: aluOp = 3'b000; // Default case
+        endcase
+
+        // Set funct field for R-type instructions
+        funct = (opcode == 6'b000000) ? opcode : 3'b000;
+    end
+
+endmodule

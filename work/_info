@@ -1,0 +1,521 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/20.1
+vALU
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1704184770
+!i10b 1
+!s100 _?_b>>fT6AX1MJn?YEHBI0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK9DbL>YkAMa7^Zm;dagVm0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1703760661
+8C:/intelFPGA/20.1/ALU.sv
+FC:/intelFPGA/20.1/ALU.sv
+!i122 249
+L0 4 40
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1704184769.000000
+!s107 C:/intelFPGA/20.1/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/ALU.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@a@l@u
+vALU_TB
+R1
+R2
+!i10b 1
+!s100 cZS5C0biJUhcF0ZQnM^D51
+R3
+I>1MYQA<ka1EgBkE=@`f]i2
+R4
+S1
+R0
+w1703760716
+8C:/intelFPGA/20.1/ALU_TB.sv
+FC:/intelFPGA/20.1/ALU_TB.sv
+!i122 250
+L0 4 42
+R5
+r1
+!s85 0
+31
+Z9 !s108 1704184770.000000
+!s107 C:/intelFPGA/20.1/ALU_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/ALU_TB.sv|
+!i113 1
+R7
+R8
+n@a@l@u_@t@b
+vControlUnit
+R1
+Z10 !s110 1704184769
+!i10b 1
+!s100 FkARPV@Sao^ZU^7C[:8Y72
+R3
+I]MikkKofIhPEE?lACWn<U1
+R4
+S1
+R0
+w1703760491
+8C:/intelFPGA/20.1/ControlUnit.sv
+FC:/intelFPGA/20.1/ControlUnit.sv
+!i122 247
+L0 3 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA/20.1/ControlUnit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/ControlUnit.sv|
+!i113 1
+R7
+R8
+n@control@unit
+vControlUnit_TB
+R1
+R10
+!i10b 1
+!s100 OR6J;A0kT2nUmcQEASbha1
+R3
+IO?f=LVFdSnTJ_A1mo_UGo0
+R4
+S1
+R0
+w1703760276
+8C:/intelFPGA/20.1/ControlUnit_TB.sv
+FC:/intelFPGA/20.1/ControlUnit_TB.sv
+!i122 248
+L0 4 33
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA/20.1/ControlUnit_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/ControlUnit_TB.sv|
+!i113 1
+R7
+R8
+n@control@unit_@t@b
+vDataMemory
+R1
+R10
+!i10b 1
+!s100 4D1BjeNkc]3XG?8[16cz40
+R3
+I0S:6Wo`jo:cNa[E8:eF:@1
+R4
+S1
+R0
+w1703759507
+8C:/intelFPGA/20.1/DataMemory.sv
+FC:/intelFPGA/20.1/DataMemory.sv
+!i122 243
+L0 4 31
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA/20.1/DataMemory.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/DataMemory.sv|
+!i113 1
+R7
+R8
+n@data@memory
+vDataMemory_TB
+R1
+R10
+!i10b 1
+!s100 ]2?cJAEY0:L;A6o1_37R[2
+R3
+IZmCPH_8gmiW<ki?35nQM>3
+R4
+S1
+R0
+w1703759563
+8C:/intelFPGA/20.1/DataMemory_TB.sv
+FC:/intelFPGA/20.1/DataMemory_TB.sv
+!i122 244
+L0 3 55
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA/20.1/DataMemory_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/DataMemory_TB.sv|
+!i113 1
+R7
+R8
+n@data@memory_@t@b
+vFullAdder
+R1
+R2
+!i10b 1
+!s100 O:cO57@E3CFmEW976fcT^3
+R3
+IkVZbalU^Z4D[JTiWX_4eD3
+R4
+S1
+R0
+w1704184728
+8C:/intelFPGA/20.1/FullAdder.sv
+FC:/intelFPGA/20.1/FullAdder.sv
+!i122 257
+L0 1 9
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/FullAdder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/FullAdder.sv|
+!i113 1
+R7
+R8
+n@full@adder
+vFullAdder_TB
+R1
+R2
+!i10b 1
+!s100 kVCGXgbl7FdCLKm7D60P;3
+R3
+IPd7SVKd7g;jXWPONH]7aM0
+R4
+S1
+R0
+w1704184761
+8C:/intelFPGA/20.1/FullAdder_TB.sv
+FC:/intelFPGA/20.1/FullAdder_TB.sv
+!i122 258
+L0 3 41
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/FullAdder_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/FullAdder_TB.sv|
+!i113 1
+R7
+R8
+n@full@adder_@t@b
+vInstructionMemory
+R1
+R10
+!i10b 1
+!s100 hD[APV4EU1X5jY4oUVI2I3
+R3
+I=[AHQfM1d@[o1jH9H?1HD1
+R4
+S1
+R0
+w1703759334
+Z11 8C:/intelFPGA/20.1/InstructionMemory_TB.sv
+Z12 FC:/intelFPGA/20.1/InstructionMemory_TB.sv
+!i122 242
+Z13 L0 3 31
+R5
+r1
+!s85 0
+31
+R6
+Z14 !s107 C:/intelFPGA/20.1/InstructionMemory_TB.sv|
+Z15 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/InstructionMemory_TB.sv|
+!i113 1
+R7
+R8
+n@instruction@memory
+vInstructionMemory_TB
+R1
+!s110 1703759312
+!i10b 1
+!s100 Qg3F9K4h4?@:jPWcQ5V9K1
+R3
+I3;kJ3h6JBR_4oeE<3Q_LE0
+R4
+S1
+R0
+w1703759302
+R11
+R12
+!i122 11
+L0 3 44
+R5
+r1
+!s85 0
+31
+!s108 1703759312.000000
+R14
+R15
+!i113 1
+R7
+R8
+n@instruction@memory_@t@b
+vMUX2to1
+R1
+R2
+!i10b 1
+!s100 9fiQS01UID=`OE_4g9cZN3
+R3
+IGF;TMh2:=C@S0Ga<mG7jV3
+R4
+S1
+R0
+w1703778798
+8C:/intelFPGA/20.1/MUX2to1.sv
+FC:/intelFPGA/20.1/MUX2to1.sv
+!i122 251
+L0 3 13
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/MUX2to1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/MUX2to1.sv|
+!i113 1
+R7
+R8
+n@m@u@x2to1
+vMUX2to1_TB
+R1
+R2
+!i10b 1
+!s100 =XMEO=:mB8IUDU:fg_IJ>0
+R3
+IYe[Lh3f28W>:=b5Wad:?H2
+R4
+S1
+R0
+w1703761372
+8C:/intelFPGA/20.1/MUX2to1_TB.sv
+FC:/intelFPGA/20.1/MUX2to1_TB.sv
+!i122 252
+L0 3 37
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/MUX2to1_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/MUX2to1_TB.sv|
+!i113 1
+R7
+R8
+n@m@u@x2to1_@t@b
+vProgramCounter
+R1
+R2
+!i10b 1
+!s100 XgN?kBId2`RnKfMbYoVV91
+R3
+IE?g]`LAhV0KLb7gHZ6l:30
+R4
+S1
+R0
+w1703779035
+8C:/intelFPGA/20.1/ProgramCounter.sv
+FC:/intelFPGA/20.1/ProgramCounter.sv
+!i122 253
+L0 4 26
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/ProgramCounter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/ProgramCounter.sv|
+!i113 1
+R7
+R8
+n@program@counter
+vProgramCounter_TB
+R1
+R2
+!i10b 1
+!s100 JV`EB6LzzI79i;IJ9l`oV1
+R3
+IAL<deVI?^NbHCKf0g`d_91
+R4
+S1
+R0
+w1703779120
+8C:/intelFPGA/20.1/ProgramCounter_TB.sv
+FC:/intelFPGA/20.1/ProgramCounter_TB.sv
+!i122 254
+L0 4 47
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/ProgramCounter_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/ProgramCounter_TB.sv|
+!i113 1
+R7
+R8
+n@program@counter_@t@b
+Ereg_mux
+Z16 w1703753092
+Z17 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z18 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+R0
+Z19 8C:/intelFPGA/20.1/reg_mux.vhd
+Z20 FC:/intelFPGA/20.1/reg_mux.vhd
+l0
+L5 1
+V?n7^:Md6ol<H:N7lGJ<[73
+!s100 YJ7>6aPD@94LjW`ONa]OG1
+Z21 OV;C;2020.1;71
+32
+Z22 !s110 1703754972
+!i10b 1
+Z23 !s108 1703754972.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/20.1/reg_mux.vhd|
+Z25 !s107 C:/intelFPGA/20.1/reg_mux.vhd|
+!i113 1
+Z26 o-work work -2002 -explicit
+Z27 tExplicit 1 CvgOpt 0
+Areg_mux
+R17
+R18
+DEx4 work 7 reg_mux 0 22 ?n7^:Md6ol<H:N7lGJ<[73
+!i122 8
+l14
+L12 14
+V6Tb`Y2F8R?^<7BnTMdOGS2
+!s100 @2X>lRKk6RF:ZT3zk]P3b0
+R21
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R26
+R27
+vRegisterFile
+R1
+R10
+!i10b 1
+!s100 S:SUK[UKUl5=j;[T;DC9d3
+R3
+IILbA1bh0QhH@XCz85cD@B2
+R4
+S1
+R0
+w1703759951
+8C:/intelFPGA/20.1/RegisterFile.sv
+FC:/intelFPGA/20.1/RegisterFile.sv
+!i122 245
+L0 3 39
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA/20.1/RegisterFile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/RegisterFile.sv|
+!i113 1
+R7
+R8
+n@register@file
+vRegisterFile_TB
+R1
+R10
+!i10b 1
+!s100 oeBNREFRSG0?D?gGLi:i[0
+R3
+IB00Xa3SKc84k?VVIQ:YmU0
+R4
+S1
+R0
+w1703760408
+8C:/intelFPGA/20.1/RegisterFile_TB.sv
+FC:/intelFPGA/20.1/RegisterFile_TB.sv
+!i122 246
+L0 4 61
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA/20.1/RegisterFile_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/RegisterFile_TB.sv|
+!i113 1
+R7
+R8
+n@register@file_@t@b
+vShiftRegister
+R1
+R2
+!i10b 1
+!s100 kO:caZFm=ml`c1DG@XTJ71
+R3
+IiQ`fSXEh`:C2=WJ?3@aT83
+R4
+S1
+R0
+w1703779614
+8C:/intelFPGA/20.1/ShiftRegister.sv
+FC:/intelFPGA/20.1/ShiftRegister.sv
+!i122 255
+R13
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/ShiftRegister.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/ShiftRegister.sv|
+!i113 1
+R7
+R8
+n@shift@register
+vShiftRegister_TB
+R1
+R2
+!i10b 1
+!s100 V@9PoMzPalYe]9RZVN9>M3
+R3
+I]DKdDL348`T1NSm@ZBoGg3
+R4
+S1
+R0
+w1703779664
+8C:/intelFPGA/20.1/ShiftRegister_TB.sv
+FC:/intelFPGA/20.1/ShiftRegister_TB.sv
+!i122 256
+L0 4 49
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA/20.1/ShiftRegister_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/20.1/ShiftRegister_TB.sv|
+!i113 1
+R7
+R8
+n@shift@register_@t@b

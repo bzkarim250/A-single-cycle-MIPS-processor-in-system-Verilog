@@ -1,0 +1,13 @@
+module FullAdder (
+   input bit A,
+   input bit B,
+   input bit Cin,
+   output bit Sum,
+   output bit Cout
+);
+
+   assign Sum = A ^ B ^ Cin;
+   assign Cout = (A & B) | (B & Cin) | (Cin & A);
+
+endmodule
+
